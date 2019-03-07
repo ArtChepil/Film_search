@@ -166,7 +166,7 @@ hr {
     padding-top: 3%;
 }
 
-#to_top {
+#top {
 	position: fixed;
 	right: 4%;
     bottom: 8%;
@@ -174,7 +174,7 @@ hr {
     opacity: 0.3;
 }
 
-#to_top:hover {
+#top:hover {
     opacity: 1;
 }
 
@@ -219,7 +219,7 @@ hr {
         width: 90%;  
     }
 
-    #to_top {
+    #top {
         right: 2%;
         bottom: 2%;
     }
@@ -308,7 +308,7 @@ hr {
         height: 12%;
     } 
 
-    #to_top {
+    #top {
         right: 2%;
         bottom: 8%;
         width: 4%;

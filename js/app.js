@@ -71,6 +71,7 @@ function createItems(movies) {
 
 var scrolled;
 var timer;
+
 document.getElementById('top').onclick = function(){
 	scrolled = window.pageYOffset;	
 	scrollToTop();
